@@ -33,7 +33,7 @@ onMounted( () => {
 <style lang="scss">
 .SocialPost{
   &__selected{
-    border: white solid 1px;
+    border: darkblue solid 1px;
   }
   .header {
     display: flex;
@@ -47,7 +47,7 @@ onMounted( () => {
   .name {
     font-weight: bold;
     margin-right: 8px;
-    color: white;
+    color: blue;
   }
 }
 </style>
